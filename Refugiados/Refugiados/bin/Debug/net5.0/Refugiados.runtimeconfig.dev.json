@@ -1,8 +1,13 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
+<<<<<<< HEAD
       "/root/.dotnet/store/|arch|/|tfm|",
       "/root/.nuget/packages"
+=======
+      "C:\\Users\\ciner\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ciner\\.nuget\\packages"
+>>>>>>> fcb1817ccb6f685e88ead8993860dbfa5e1a8e35
     ]
   }
 }
