@@ -1,7 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
     "/home/mamona/Desktop/recode/recode-proj_refugiados/Refugiados/Refugiados/Refugiados.csproj": {}
   },
   "projects": {
@@ -16,23 +15,6 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/root/.nuget/NuGet/NuGet.Config"
-=======
-    "C:\\Users\\ciner\\recode-proj_refugiados\\Refugiados\\Refugiados\\Refugiados.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\ciner\\recode-proj_refugiados\\Refugiados\\Refugiados\\Refugiados.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\ciner\\recode-proj_refugiados\\Refugiados\\Refugiados\\Refugiados.csproj",
-        "projectName": "Refugiados",
-        "projectPath": "C:\\Users\\ciner\\recode-proj_refugiados\\Refugiados\\Refugiados\\Refugiados.csproj",
-        "packagesPath": "C:\\Users\\ciner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ciner\\recode-proj_refugiados\\Refugiados\\Refugiados\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\ciner\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
->>>>>>> fcb1817ccb6f685e88ead8993860dbfa5e1a8e35
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -85,12 +67,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.12, 5.0.12]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -99,11 +75,7 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.403/RuntimeIdentifierGraph.json"
-=======
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
->>>>>>> fcb1817ccb6f685e88ead8993860dbfa5e1a8e35
         }
       }
     }
